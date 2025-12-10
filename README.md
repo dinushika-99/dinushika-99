@@ -37,8 +37,8 @@ A motivated **IT undergraduate** specializing in **Data Science** at **Sri Lanka
 
 ### 🎓 Education
 
-**BSc (Hons) in IT – Data Science**  
-Sri Lanka Institute of Information Technology (SLIIT) | 2023–Present  
+**BSc (Hons) in Information Technology – Data Science (in progress)**
+Sri Lanka Institute of Information Technology (SLIIT) | 2023–Present 
 
 ---
 
