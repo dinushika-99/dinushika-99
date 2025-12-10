@@ -7,7 +7,7 @@ A motivated **IT undergraduate** specializing in **Data Science** at **Sri Lanka
 👯 Looking to collaborate on **open-source data projects** or **social impact tech**  
 💬 Ask me about: **Python**, **React**, **MongoDB**, **Data Dashboards**, or **Agri-tech solutions**  
 📫 How to reach me: [dinunimweerakoon@gmail.com](mailto:dinunimweerakoon@gmail.com)  
-🌐 [Nimanthi Weerakoon](www.linkedin.com/in/nimanthi-weerakoon-06aa5336b) 
+🌐 Linkedin: [Nimanthi Weerakoon](www.linkedin.com/in/nimanthi-weerakoon-06aa5336b) 
 
 ---
 
