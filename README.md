@@ -28,7 +28,7 @@ A motivated **IT undergraduate** specializing in **Data Science** at **Sri Lanka
 
 ### 📌 Featured Projects
 
-- **[SmartAgry](https://github.com/dinushika-99/smartagry)** – Agricultural marketplace connecting farmers, buyers & logistics  
+- **[SmartAgry](https://github.com/dinushika-99/smartagry)** – Agricultural marketplace connecting farmers, buyers, drivers, and Agri-officers  
 - **[Movify](https://github.com/dinushika-99/movify)** – Movie & TV series browsing platform with search & categories  
 - **[MedPortal](https://github.com/dinushika-99/medportal)** – Online medical appointment booking system
 - **[PlanMyDay](https://github.com/dinushika-99/planmyday)** – Daily habit tracker mobile application with mood tracking, hydration reminders, and mood journal
