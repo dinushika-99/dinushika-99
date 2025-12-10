@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nimanthi Weerakoon (Dinushi)
+# 👋 Hi, I'm Nimanthi Weerakoon
 
 A motivated **IT undergraduate** specializing in **Data Science** at **Sri Lanka Institute of Information Technology (SLIIT)**, with a passion for turning data into actionable insights and building full-stack applications.
 
