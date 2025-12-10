@@ -33,8 +33,6 @@ A motivated **IT undergraduate** specializing in **Data Science** at **Sri Lanka
 - **[MedPortal](https://github.com/dinushika-99/medportal)** – Online medical appointment booking system
 - **[PlanMyDay](https://github.com/dinushika-99/planmyday)** – Daily habit tracker mobile application with mood tracking, hydration reminders, and mood journal
 
-*(Replace the links with your actual GitHub repo URLs once uploaded)*
-
 ---
 
 ### 🎓 Education
