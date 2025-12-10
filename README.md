@@ -1,137 +1,52 @@
-<p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="120px">
-</p>
+# 👋 Hi, I'm Nimanthi Weerakoon (Dinushi)
 
-<h1 align="center">Hi 👋, I'm Nimanthi Weerakoon</h1>
-<h3 align="center">A passionate Software Developer & Civil Engineering Diploma Holder from Sri Lanka</h3>
+A motivated **IT undergraduate** specializing in **Data Science** at **Sri Lanka Institute of Information Technology (SLIIT)**, with a passion for turning data into actionable insights and building full-stack applications.
 
-<img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:1272/1*ZSVmWGcc1weENb0ShawWxw.gif"/>
-
----
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=blue&style=flat" />
-</p>
+🔭 Currently working on data analysis, visualization, and full-stack web development projects.  
+🌱 Learning: **Machine Learning**, **ETL Pipelines**, **Cloud Data Solutions (Azure)**  
+👯 Looking to collaborate on **open-source data projects** or **social impact tech**  
+💬 Ask me about: **Python**, **React**, **MongoDB**, **Data Dashboards**, or **Agri-tech solutions**  
+📫 How to reach me: [dinunimweerakoon@gmail.com](mailto:dinunimweerakoon@gmail.com)  
+🌐 [LinkedIn](https://linkedin.com/in/your-profile) *(optional – update if you have one)*
 
 ---
 
-### 🎓 **Education**
-- Higher National Diploma in Information Technology (HNDIT) – Reading  
-- Diploma in Civil Engineering (NVQ Level 5)  
-- Certificate in Computer Aided Drafting – AutoCAD  
-- AAT Sri Lanka – Business Accounting (Stage 1 Completed)
+### 🛠️ Tech Stack
 
----
-
-### 🔭 **I’m currently working on**
-- Web-based Management Systems  
-- Java & Spring Boot Projects  
-- MERN Stack Applications  
-- Mobile App Development with Flutter
-
----
-
-### 🌱 **I’m currently learning**
-- React.js  
-- Node.js  
-- Express.js  
-- MySQL / MongoDB  
-- PHP & Laravel  
-- Java OOP, Servlets & JSP  
-- Software Engineering Concepts  
-
----
-
-### 💬 **Ask me about**
-- HTML, CSS, JS  
-- React.js, Node.js  
-- Java, JDBC, JSP / Servlets  
-- SQL, MySQL, MongoDB  
-- AutoCAD drafting (2D & 3D)
-
----
-
-### 📫 **Reach me at**
-📧 **nimanthiweerakoon23@gmail.com**  
-
----
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> **Connect with Me**
-<p align="left">
-
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-</a>
-
-<a href="https://facebook.com/YOUR_FACEBOOK" target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook" width="40"/>
-</a>
-
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 </p>
 
 ---
 
-## 🛠️ **Technical Skills**
-<p align="left">
+### 📌 Featured Projects
 
-<!-- Programming Languages -->
-<img src="https://skillicons.dev/icons?i=java" width="40"/>
-<img src="https://skillicons.dev/icons?i=python" width="40"/>
-<img src="https://skillicons.dev/icons?i=javascript" width="40"/>
+- **[SmartAgry](https://github.com/your-username/smartagry)** – Agricultural marketplace connecting farmers, buyers & logistics  
+- **[Movify](https://github.com/your-username/movify)** – Movie & TV series browsing platform with search & categories  
+- **[MedPortal](https://github.com/your-username/medportal)** – Online medical appointment booking system
 
-<!-- Web Development -->
-<img src="https://skillicons.dev/icons?i=html" width="40"/>
-<img src="https://skillicons.dev/icons?i=css" width="40"/>
-<img src="https://skillicons.dev/icons?i=react" width="40"/>
-<img src="https://skillicons.dev/icons?i=nodejs" width="40"/>
-<img src="https://skillicons.dev/icons?i=express" width="40"/>
-
-<!-- Databases -->
-<img src="https://skillicons.dev/icons?i=mysql" width="40"/>
-<img src="https://skillicons.dev/icons?i=mongodb" width="40"/>
-
-<!-- Tools -->
-<img src="https://skillicons.dev/icons?i=git" width="40"/>
-<img src="https://skillicons.dev/icons?i=github" width="40"/>
-<img src="https://skillicons.dev/icons?i=postman" width="40"/>
-<img src="https://skillicons.dev/icons?i=figma" width="40"/>
-
-<!-- Other -->
-<img src="https://skillicons.dev/icons?i=autocad" width="40"/>
-
-</p>
+*(Replace the links with your actual GitHub repo URLs once uploaded)*
 
 ---
 
-## 📂 **Projects**
-- **GreenAgri – Agricultural Product Management System**  
-- **Medicare – Online Medical & Tourism Booking Platform**  
-- **Online Examination System**  
-- **Farm Harvest Selling Platform (MERN Stack)**  
-- **Food Waste Donation Network (MERN Stack)**  
-- **Movie Review Web App (JSP + Servlet)**  
+### 🎓 Education
+
+**BSc (Hons) in IT – Data Science**  
+Sri Lanka Institute of Information Technology (SLIIT) | 2023–Present  
 
 ---
 
-## 📊 **GitHub Stats**
-<table align="center">
-<tr>
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=dark&show_icons=true&count_private=true" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false"/>
-
-</td>
-
-<td width="50%" align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=dark&layout=compact&langs_count=10"/>
-
-</td>
-</tr>
-</table>
+### 🌍 Languages  
+- **Sinhala**: Native  
+- **English**: Intermediate
 
 ---
+
+✨ *"Data has stories — I help them speak."*
