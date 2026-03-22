@@ -3,7 +3,7 @@
 A motivated **IT undergraduate** specializing in **Data Science** at **Sri Lanka Institute of Information Technology (SLIIT)**, with a passion for turning data into actionable insights and building full-stack applications.
 
 🔭 Currently working on data analysis, visualization, and full-stack web development projects.  
-🌱 Learning: **Machine Learning**, **ETL Pipelines**, **Cloud Data Solutions (Azure)**  
+🌱 Learning: **Machine Learning**, **ETL Pipelines**  
 👯 Looking to collaborate on **open-source data projects** or **social impact tech**  
 💬 Ask me about: **Python**, **React**, **MongoDB**, **Data Dashboards**, or **Agri-tech solutions**  
 📫 How to reach me: [dinunimweerakoon@gmail.com](mailto:dinunimweerakoon@gmail.com)  
@@ -20,7 +20,6 @@ A motivated **IT undergraduate** specializing in **Data Science** at **Sri Lanka
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" />
 </p>
 
