@@ -6,7 +6,7 @@
 
 <p align="center">
 📧 Email: dinunimweerakoon@gmail.com • 
-🔗 LinkedIn: www.linkedin.com/in/nimanthi-weerakoon-06aa5336b
+🔗 LinkedIn: www.linkedin.com/in/nimanthi-weerakoon
 </p>
 
 ---
